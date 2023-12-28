@@ -6,7 +6,7 @@ printf "Hello world"
 ```
 
 # Hi there, I'm Kevin [![Open Source lover](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-> 18years, Brazil.
+> 18years 🥇
 > Development student.
 > Interested in android development.
 
